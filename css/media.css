@@ -1,0 +1,16 @@
+@media (min-width: 577px) {
+  .counter-box {
+    margin-bottom: 1.8rem;
+  }
+}
+@media (min-width: 768px) {
+  .box-shadow-full {
+    padding: 3rem;
+  }
+  .about-sc .about-me {
+    padding-top: 0 !important;
+  }
+  .card-blog {
+    margin-bottom: 3rem;
+  }
+}
